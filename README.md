@@ -1,5 +1,12 @@
 # Análise de Localização de Parques em uma Cidade
 
+## Grupo: Sono do Djabo
+- Antonio Jailson da Silva Segundo
+- Bernardo Jose da Silveira Vieira
+- Keven Firmo Barboza
+- Lucas Denner Soares da Rocha
+- Samuel Vitor de Oliveira Galdino
+
 ## Descrição
 Este projeto demonstra como utilizar PostGIS para armazenar e analisar dados geoespaciais. A base de dados contém a localização de parques em uma cidade, e são realizadas consultas espaciais básicas para análise.
 
